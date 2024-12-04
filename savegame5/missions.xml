@@ -174,4 +174,36 @@
         <endDate endDay="10" endDayTime="86399999"/>
         <field id="34"/>
     </mowMission>
+    <harvestMission uniqueId="missioneff9b4ae29c3edda3f400e8fb3fc08c7" status="CREATED" finishState="NONE">
+        <harvest fruitType="BEETROOT" expectedLiters="0.000000" depositedLiters="0.000000" sellingStationPlaceableUniqueId="placeable306f030378b6f6fe17f8742c67f00084" unloadingStationIndex="1"/>
+        <info reward="0" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="16"/>
+        <endDate endDay="10" endDayTime="86399999"/>
+        <field id="25"/>
+    </harvestMission>
+    <tedderMission uniqueId="missionaf4d5debe96632a029dc3877781ddc7b" status="CREATED" finishState="NONE" spawnedLiters="0" finishedGrassSpawning="false">
+        <info reward="0" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="2"/>
+        <endDate endDay="10" endDayTime="86399999"/>
+        <field id="35"/>
+    </tedderMission>
+    <baleMission uniqueId="mission4a2ea44325531d89920e59dfa60d73d5" status="CREATED" finishState="NONE" fruitType="OAT" needRoundbaler="false" spawnedLiters="0.000000" finishedSwathSpawning="false">
+        <info reward="0" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="10"/>
+        <endDate endDay="10" endDayTime="86399999"/>
+        <field id="79"/>
+    </baleMission>
+    <harvestMission uniqueId="missionf490f0dfbb048d9152f30f7b4456220c" status="CREATED" finishState="NONE">
+        <harvest fruitType="CARROT" expectedLiters="0.000000" depositedLiters="0.000000" sellingStationPlaceableUniqueId="placeable4191ec4d29d812ae2f88a4eec945b626" unloadingStationIndex="1"/>
+        <info reward="0" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="12"/>
+        <endDate endDay="10" endDayTime="86399999"/>
+        <field id="29"/>
+    </harvestMission>
+    <tedderMission uniqueId="missionb02972287434844888acb596233c9f76" status="CREATED" finishState="NONE" spawnedLiters="0" finishedGrassSpawning="false">
+        <info reward="0" reimbursement="0.000000" completion="0.000000"/>
+        <vehicles spawned="false" group="2"/>
+        <endDate endDay="10" endDayTime="86399999"/>
+        <field id="44"/>
+    </tedderMission>
 </missions>

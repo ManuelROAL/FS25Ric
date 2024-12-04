@@ -58,7 +58,7 @@
                 <period period="EARLY_SUMMER">513</period>
                 <period period="MID_SUMMER">488</period>
                 <period period="LATE_SUMMER">554</period>
-                <period period="EARLY_AUTUMN">602</period>
+                <period period="EARLY_AUTUMN">603</period>
                 <period period="MID_AUTUMN">651</period>
                 <period period="LATE_AUTUMN">681</period>
                 <period period="EARLY_WINTER">730</period>
@@ -74,7 +74,7 @@
                 <period period="EARLY_SUMMER">366</period>
                 <period period="MID_SUMMER">340</period>
                 <period period="LATE_SUMMER">351</period>
-                <period period="EARLY_AUTUMN">372</period>
+                <period period="EARLY_AUTUMN">373</period>
                 <period period="MID_AUTUMN">413</period>
                 <period period="LATE_AUTUMN">464</period>
                 <period period="EARLY_WINTER">499</period>
@@ -90,7 +90,7 @@
                 <period period="EARLY_SUMMER">586</period>
                 <period period="MID_SUMMER">633</period>
                 <period period="LATE_SUMMER">698</period>
-                <period period="EARLY_AUTUMN">742</period>
+                <period period="EARLY_AUTUMN">743</period>
                 <period period="MID_AUTUMN">747</period>
                 <period period="LATE_AUTUMN">713</period>
                 <period period="EARLY_WINTER">437</period>
@@ -106,7 +106,7 @@
                 <period period="EARLY_SUMMER">1105</period>
                 <period period="MID_SUMMER">1237</period>
                 <period period="LATE_SUMMER">787</period>
-                <period period="EARLY_AUTUMN">674</period>
+                <period period="EARLY_AUTUMN">673</period>
                 <period period="MID_AUTUMN">630</period>
                 <period period="LATE_AUTUMN">599</period>
                 <period period="EARLY_WINTER">677</period>
@@ -122,7 +122,7 @@
                 <period period="EARLY_SUMMER">433</period>
                 <period period="MID_SUMMER">498</period>
                 <period period="LATE_SUMMER">355</period>
-                <period period="EARLY_AUTUMN">336</period>
+                <period period="EARLY_AUTUMN">335</period>
                 <period period="MID_AUTUMN">270</period>
                 <period period="LATE_AUTUMN">232</period>
                 <period period="EARLY_WINTER">350</period>
@@ -218,7 +218,7 @@
                 <period period="EARLY_SUMMER">1277</period>
                 <period period="MID_SUMMER">1152</period>
                 <period period="LATE_SUMMER">1098</period>
-                <period period="EARLY_AUTUMN">1077</period>
+                <period period="EARLY_AUTUMN">1081</period>
                 <period period="MID_AUTUMN">1277</period>
                 <period period="LATE_AUTUMN">1277</period>
                 <period period="EARLY_WINTER">1302</period>
@@ -250,7 +250,7 @@
                 <period period="EARLY_SUMMER">1111</period>
                 <period period="MID_SUMMER">1155</period>
                 <period period="LATE_SUMMER">1140</period>
-                <period period="EARLY_AUTUMN">1153</period>
+                <period period="EARLY_AUTUMN">1152</period>
                 <period period="MID_AUTUMN">1144</period>
                 <period period="LATE_AUTUMN">1122</period>
                 <period period="EARLY_WINTER">1111</period>
@@ -266,7 +266,7 @@
                 <period period="EARLY_SUMMER">727</period>
                 <period period="MID_SUMMER">727</period>
                 <period period="LATE_SUMMER">753</period>
-                <period period="EARLY_AUTUMN">754</period>
+                <period period="EARLY_AUTUMN">753</period>
                 <period period="MID_AUTUMN">756</period>
                 <period period="LATE_AUTUMN">749</period>
                 <period period="EARLY_WINTER">734</period>
@@ -282,7 +282,7 @@
                 <period period="EARLY_SUMMER">1061</period>
                 <period period="MID_SUMMER">1040</period>
                 <period period="LATE_SUMMER">1029</period>
-                <period period="EARLY_AUTUMN">1026</period>
+                <period period="EARLY_AUTUMN">1027</period>
                 <period period="MID_AUTUMN">1082</period>
                 <period period="LATE_AUTUMN">1123</period>
                 <period period="EARLY_WINTER">1144</period>
@@ -346,7 +346,7 @@
                 <period period="EARLY_SUMMER">195</period>
                 <period period="MID_SUMMER">170</period>
                 <period period="LATE_SUMMER">181</period>
-                <period period="EARLY_AUTUMN">205</period>
+                <period period="EARLY_AUTUMN">206</period>
                 <period period="MID_AUTUMN">256</period>
                 <period period="LATE_AUTUMN">365</period>
                 <period period="EARLY_WINTER">458</period>
@@ -570,7 +570,7 @@
                 <period period="EARLY_SUMMER">663</period>
                 <period period="MID_SUMMER">621</period>
                 <period period="LATE_SUMMER">545</period>
-                <period period="EARLY_AUTUMN">525</period>
+                <period period="EARLY_AUTUMN">524</period>
                 <period period="MID_AUTUMN">452</period>
                 <period period="LATE_AUTUMN">507</period>
                 <period period="EARLY_WINTER">531</period>
@@ -602,7 +602,7 @@
                 <period period="EARLY_SUMMER">630</period>
                 <period period="MID_SUMMER">665</period>
                 <period period="LATE_SUMMER">681</period>
-                <period period="EARLY_AUTUMN">705</period>
+                <period period="EARLY_AUTUMN">706</period>
                 <period period="MID_AUTUMN">763</period>
                 <period period="LATE_AUTUMN">686</period>
                 <period period="EARLY_WINTER">672</period>
@@ -618,7 +618,7 @@
                 <period period="EARLY_SUMMER">2538</period>
                 <period period="MID_SUMMER">2679</period>
                 <period period="LATE_SUMMER">2779</period>
-                <period period="EARLY_AUTUMN">2890</period>
+                <period period="EARLY_AUTUMN">2887</period>
                 <period period="MID_AUTUMN">3074</period>
                 <period period="LATE_AUTUMN">2764</period>
                 <period period="EARLY_WINTER">2707</period>
@@ -634,7 +634,7 @@
                 <period period="EARLY_SUMMER">3150</period>
                 <period period="MID_SUMMER">3325</period>
                 <period period="LATE_SUMMER">3373</period>
-                <period period="EARLY_AUTUMN">3621</period>
+                <period period="EARLY_AUTUMN">3642</period>
                 <period period="MID_AUTUMN">3815</period>
                 <period period="LATE_AUTUMN">3430</period>
                 <period period="EARLY_WINTER">3360</period>
@@ -650,7 +650,7 @@
                 <period period="EARLY_SUMMER">1119</period>
                 <period period="MID_SUMMER">931</period>
                 <period period="LATE_SUMMER">816</period>
-                <period period="EARLY_AUTUMN">767</period>
+                <period period="EARLY_AUTUMN">768</period>
                 <period period="MID_AUTUMN">724</period>
                 <period period="LATE_AUTUMN">799</period>
                 <period period="EARLY_WINTER">893</period>
@@ -666,7 +666,7 @@
                 <period period="EARLY_SUMMER">1232</period>
                 <period period="MID_SUMMER">1243</period>
                 <period period="LATE_SUMMER">1052</period>
-                <period period="EARLY_AUTUMN">1053</period>
+                <period period="EARLY_AUTUMN">1054</period>
                 <period period="MID_AUTUMN">1154</period>
                 <period period="LATE_AUTUMN">1400</period>
                 <period period="EARLY_WINTER">1355</period>
@@ -682,7 +682,7 @@
                 <period period="EARLY_SUMMER">1000</period>
                 <period period="MID_SUMMER">960</period>
                 <period period="LATE_SUMMER">921</period>
-                <period period="EARLY_AUTUMN">919</period>
+                <period period="EARLY_AUTUMN">916</period>
                 <period period="MID_AUTUMN">940</period>
                 <period period="LATE_AUTUMN">970</period>
                 <period period="EARLY_WINTER">1000</period>
@@ -698,7 +698,7 @@
                 <period period="EARLY_SUMMER">980</period>
                 <period period="MID_SUMMER">931</period>
                 <period period="LATE_SUMMER">962</period>
-                <period period="EARLY_AUTUMN">903</period>
+                <period period="EARLY_AUTUMN">900</period>
                 <period period="MID_AUTUMN">891</period>
                 <period period="LATE_AUTUMN">970</period>
                 <period period="EARLY_WINTER">1000</period>
@@ -730,7 +730,7 @@
                 <period period="EARLY_SUMMER">445</period>
                 <period period="MID_SUMMER">423</period>
                 <period period="LATE_SUMMER">434</period>
-                <period period="EARLY_AUTUMN">415</period>
+                <period period="EARLY_AUTUMN">414</period>
                 <period period="MID_AUTUMN">405</period>
                 <period period="LATE_AUTUMN">441</period>
                 <period period="EARLY_WINTER">454</period>
@@ -778,7 +778,7 @@
                 <period period="EARLY_SUMMER">445</period>
                 <period period="MID_SUMMER">423</period>
                 <period period="LATE_SUMMER">434</period>
-                <period period="EARLY_AUTUMN">419</period>
+                <period period="EARLY_AUTUMN">418</period>
                 <period period="MID_AUTUMN">405</period>
                 <period period="LATE_AUTUMN">441</period>
                 <period period="EARLY_WINTER">454</period>
@@ -794,7 +794,7 @@
                 <period period="EARLY_SUMMER">445</period>
                 <period period="MID_SUMMER">423</period>
                 <period period="LATE_SUMMER">433</period>
-                <period period="EARLY_AUTUMN">412</period>
+                <period period="EARLY_AUTUMN">411</period>
                 <period period="MID_AUTUMN">405</period>
                 <period period="LATE_AUTUMN">441</period>
                 <period period="EARLY_WINTER">454</period>
@@ -826,7 +826,7 @@
                 <period period="EARLY_SUMMER">856</period>
                 <period period="MID_SUMMER">813</period>
                 <period period="LATE_SUMMER">838</period>
-                <period period="EARLY_AUTUMN">805</period>
+                <period period="EARLY_AUTUMN">804</period>
                 <period period="MID_AUTUMN">778</period>
                 <period period="LATE_AUTUMN">848</period>
                 <period period="EARLY_WINTER">874</period>
@@ -842,7 +842,7 @@
                 <period period="EARLY_SUMMER">1352</period>
                 <period period="MID_SUMMER">1430</period>
                 <period period="LATE_SUMMER">1334</period>
-                <period period="EARLY_AUTUMN">1322</period>
+                <period period="EARLY_AUTUMN">1320</period>
                 <period period="MID_AUTUMN">1261</period>
                 <period period="LATE_AUTUMN">1235</period>
                 <period period="EARLY_WINTER">1209</period>
@@ -858,7 +858,7 @@
                 <period period="EARLY_SUMMER">1941</period>
                 <period period="MID_SUMMER">1941</period>
                 <period period="LATE_SUMMER">1952</period>
-                <period period="EARLY_AUTUMN">1965</period>
+                <period period="EARLY_AUTUMN">1964</period>
                 <period period="MID_AUTUMN">1941</period>
                 <period period="LATE_AUTUMN">1941</period>
                 <period period="EARLY_WINTER">1941</period>
@@ -874,7 +874,7 @@
                 <period period="EARLY_SUMMER">2912</period>
                 <period period="MID_SUMMER">2912</period>
                 <period period="LATE_SUMMER">2924</period>
-                <period period="EARLY_AUTUMN">2914</period>
+                <period period="EARLY_AUTUMN">2915</period>
                 <period period="MID_AUTUMN">2912</period>
                 <period period="LATE_AUTUMN">2912</period>
                 <period period="EARLY_WINTER">2912</period>
@@ -890,7 +890,7 @@
                 <period period="EARLY_SUMMER">4950</period>
                 <period period="MID_SUMMER">4950</period>
                 <period period="LATE_SUMMER">5052</period>
-                <period period="EARLY_AUTUMN">5003</period>
+                <period period="EARLY_AUTUMN">5004</period>
                 <period period="MID_AUTUMN">4950</period>
                 <period period="LATE_AUTUMN">4950</period>
                 <period period="EARLY_WINTER">4950</period>
@@ -906,7 +906,7 @@
                 <period period="EARLY_SUMMER">649</period>
                 <period period="MID_SUMMER">587</period>
                 <period period="LATE_SUMMER">569</period>
-                <period period="EARLY_AUTUMN">602</period>
+                <period period="EARLY_AUTUMN">601</period>
                 <period period="MID_AUTUMN">683</period>
                 <period period="LATE_AUTUMN">745</period>
                 <period period="EARLY_WINTER">780</period>
@@ -922,7 +922,7 @@
                 <period period="EARLY_SUMMER">855</period>
                 <period period="MID_SUMMER">774</period>
                 <period period="LATE_SUMMER">754</period>
-                <period period="EARLY_AUTUMN">789</period>
+                <period period="EARLY_AUTUMN">790</period>
                 <period period="MID_AUTUMN">901</period>
                 <period period="LATE_AUTUMN">983</period>
                 <period period="EARLY_WINTER">1028</period>
@@ -938,7 +938,7 @@
                 <period period="EARLY_SUMMER">1551</period>
                 <period period="MID_SUMMER">1403</period>
                 <period period="LATE_SUMMER">1359</period>
-                <period period="EARLY_AUTUMN">1422</period>
+                <period period="EARLY_AUTUMN">1424</period>
                 <period period="MID_AUTUMN">1633</period>
                 <period period="LATE_AUTUMN">1782</period>
                 <period period="EARLY_WINTER">1864</period>
@@ -954,7 +954,7 @@
                 <period period="EARLY_SUMMER">2970</period>
                 <period period="MID_SUMMER">3135</period>
                 <period period="LATE_SUMMER">3227</period>
-                <period period="EARLY_AUTUMN">3462</period>
+                <period period="EARLY_AUTUMN">3465</period>
                 <period period="MID_AUTUMN">3597</period>
                 <period period="LATE_AUTUMN">3234</period>
                 <period period="EARLY_WINTER">3168</period>
@@ -986,7 +986,7 @@
                 <period period="EARLY_SUMMER">1899</period>
                 <period period="MID_SUMMER">2004</period>
                 <period period="LATE_SUMMER">2086</period>
-                <period period="EARLY_AUTUMN">2195</period>
+                <period period="EARLY_AUTUMN">2198</period>
                 <period period="MID_AUTUMN">2300</period>
                 <period period="LATE_AUTUMN">2068</period>
                 <period period="EARLY_WINTER">2026</period>
@@ -1018,7 +1018,7 @@
                 <period period="EARLY_SUMMER">1008</period>
                 <period period="MID_SUMMER">1064</period>
                 <period period="LATE_SUMMER">1099</period>
-                <period period="EARLY_AUTUMN">1153</period>
+                <period period="EARLY_AUTUMN">1155</period>
                 <period period="MID_AUTUMN">1221</period>
                 <period period="LATE_AUTUMN">1098</period>
                 <period period="EARLY_WINTER">1075</period>
@@ -1034,7 +1034,7 @@
                 <period period="EARLY_SUMMER">1620</period>
                 <period period="MID_SUMMER">1710</period>
                 <period period="LATE_SUMMER">1764</period>
-                <period period="EARLY_AUTUMN">1848</period>
+                <period period="EARLY_AUTUMN">1851</period>
                 <period period="MID_AUTUMN">1962</period>
                 <period period="LATE_AUTUMN">1764</period>
                 <period period="EARLY_WINTER">1728</period>
@@ -1050,7 +1050,7 @@
                 <period period="EARLY_SUMMER">6750</period>
                 <period period="MID_SUMMER">7125</period>
                 <period period="LATE_SUMMER">7321</period>
-                <period period="EARLY_AUTUMN">7797</period>
+                <period period="EARLY_AUTUMN">7816</period>
                 <period period="MID_AUTUMN">8175</period>
                 <period period="LATE_AUTUMN">7350</period>
                 <period period="EARLY_WINTER">7200</period>
@@ -1066,7 +1066,7 @@
                 <period period="EARLY_SUMMER">1584</period>
                 <period period="MID_SUMMER">1672</period>
                 <period period="LATE_SUMMER">1724</period>
-                <period period="EARLY_AUTUMN">1805</period>
+                <period period="EARLY_AUTUMN">1809</period>
                 <period period="MID_AUTUMN">1918</period>
                 <period period="LATE_AUTUMN">1725</period>
                 <period period="EARLY_WINTER">1690</period>
@@ -1082,7 +1082,7 @@
                 <period period="EARLY_SUMMER">2160</period>
                 <period period="MID_SUMMER">1880</period>
                 <period period="LATE_SUMMER">1857</period>
-                <period period="EARLY_AUTUMN">1900</period>
+                <period period="EARLY_AUTUMN">1902</period>
                 <period period="MID_AUTUMN">1820</period>
                 <period period="LATE_AUTUMN">1920</period>
                 <period period="EARLY_WINTER">2000</period>
@@ -1098,7 +1098,7 @@
                 <period period="EARLY_SUMMER">1500</period>
                 <period period="MID_SUMMER">1500</period>
                 <period period="LATE_SUMMER">1504</period>
-                <period period="EARLY_AUTUMN">1528</period>
+                <period period="EARLY_AUTUMN">1527</period>
                 <period period="MID_AUTUMN">1500</period>
                 <period period="LATE_AUTUMN">1500</period>
                 <period period="EARLY_WINTER">1500</period>
@@ -1130,7 +1130,7 @@
                 <period period="EARLY_SUMMER">650</period>
                 <period period="MID_SUMMER">650</period>
                 <period period="LATE_SUMMER">660</period>
-                <period period="EARLY_AUTUMN">658</period>
+                <period period="EARLY_AUTUMN">656</period>
                 <period period="MID_AUTUMN">650</period>
                 <period period="LATE_AUTUMN">650</period>
                 <period period="EARLY_WINTER">650</period>
@@ -1162,7 +1162,7 @@
                 <period period="EARLY_SUMMER">578</period>
                 <period period="MID_SUMMER">578</period>
                 <period period="LATE_SUMMER">577</period>
-                <period period="EARLY_AUTUMN">577</period>
+                <period period="EARLY_AUTUMN">578</period>
                 <period period="MID_AUTUMN">578</period>
                 <period period="LATE_AUTUMN">578</period>
                 <period period="EARLY_WINTER">578</period>
@@ -1194,7 +1194,7 @@
                 <period period="EARLY_SUMMER">1550</period>
                 <period period="MID_SUMMER">1550</period>
                 <period period="LATE_SUMMER">1540</period>
-                <period period="EARLY_AUTUMN">1536</period>
+                <period period="EARLY_AUTUMN">1537</period>
                 <period period="MID_AUTUMN">1550</period>
                 <period period="LATE_AUTUMN">1550</period>
                 <period period="EARLY_WINTER">1550</period>
@@ -1210,7 +1210,7 @@
                 <period period="EARLY_SUMMER">940</period>
                 <period period="MID_SUMMER">940</period>
                 <period period="LATE_SUMMER">940</period>
-                <period period="EARLY_AUTUMN">949</period>
+                <period period="EARLY_AUTUMN">947</period>
                 <period period="MID_AUTUMN">940</period>
                 <period period="LATE_AUTUMN">940</period>
                 <period period="EARLY_WINTER">940</period>
@@ -1226,7 +1226,7 @@
                 <period period="EARLY_SUMMER">885</period>
                 <period period="MID_SUMMER">885</period>
                 <period period="LATE_SUMMER">875</period>
-                <period period="EARLY_AUTUMN">879</period>
+                <period period="EARLY_AUTUMN">880</period>
                 <period period="MID_AUTUMN">885</period>
                 <period period="LATE_AUTUMN">885</period>
                 <period period="EARLY_WINTER">885</period>
@@ -1242,7 +1242,7 @@
                 <period period="EARLY_SUMMER">880</period>
                 <period period="MID_SUMMER">880</period>
                 <period period="LATE_SUMMER">883</period>
-                <period period="EARLY_AUTUMN">892</period>
+                <period period="EARLY_AUTUMN">890</period>
                 <period period="MID_AUTUMN">880</period>
                 <period period="LATE_AUTUMN">880</period>
                 <period period="EARLY_WINTER">880</period>
@@ -1258,7 +1258,7 @@
                 <period period="EARLY_SUMMER">845</period>
                 <period period="MID_SUMMER">845</period>
                 <period period="LATE_SUMMER">847</period>
-                <period period="EARLY_AUTUMN">854</period>
+                <period period="EARLY_AUTUMN">852</period>
                 <period period="MID_AUTUMN">845</period>
                 <period period="LATE_AUTUMN">845</period>
                 <period period="EARLY_WINTER">845</period>
@@ -1274,7 +1274,7 @@
                 <period period="EARLY_SUMMER">1245</period>
                 <period period="MID_SUMMER">1245</period>
                 <period period="LATE_SUMMER">1240</period>
-                <period period="EARLY_AUTUMN">1241</period>
+                <period period="EARLY_AUTUMN">1242</period>
                 <period period="MID_AUTUMN">1245</period>
                 <period period="LATE_AUTUMN">1245</period>
                 <period period="EARLY_WINTER">1245</period>
@@ -1290,7 +1290,7 @@
                 <period period="EARLY_SUMMER">4760</period>
                 <period period="MID_SUMMER">3960</period>
                 <period period="LATE_SUMMER">3539</period>
-                <period period="EARLY_AUTUMN">3412</period>
+                <period period="EARLY_AUTUMN">3398</period>
                 <period period="MID_AUTUMN">3080</period>
                 <period period="LATE_AUTUMN">3400</period>
                 <period period="EARLY_WINTER">3800</period>
@@ -1306,7 +1306,7 @@
                 <period period="EARLY_SUMMER">10115</period>
                 <period period="MID_SUMMER">8415</period>
                 <period period="LATE_SUMMER">7382</period>
-                <period period="EARLY_AUTUMN">6801</period>
+                <period period="EARLY_AUTUMN">6788</period>
                 <period period="MID_AUTUMN">6545</period>
                 <period period="LATE_AUTUMN">7225</period>
                 <period period="EARLY_WINTER">8075</period>
@@ -1338,7 +1338,7 @@
                 <period period="EARLY_SUMMER">3800</period>
                 <period period="MID_SUMMER">3572</period>
                 <period period="LATE_SUMMER">3715</period>
-                <period period="EARLY_AUTUMN">3542</period>
+                <period period="EARLY_AUTUMN">3539</period>
                 <period period="MID_AUTUMN">3838</period>
                 <period period="LATE_AUTUMN">3686</period>
                 <period period="EARLY_WINTER">3800</period>
@@ -1354,7 +1354,7 @@
                 <period period="EARLY_SUMMER">2028</period>
                 <period period="MID_SUMMER">2145</period>
                 <period period="LATE_SUMMER">2009</period>
-                <period period="EARLY_AUTUMN">1965</period>
+                <period period="EARLY_AUTUMN">1959</period>
                 <period period="MID_AUTUMN">1892</period>
                 <period period="LATE_AUTUMN">1853</period>
                 <period period="EARLY_WINTER">1814</period>
@@ -1370,7 +1370,7 @@
                 <period period="EARLY_SUMMER">2900</period>
                 <period period="MID_SUMMER">2900</period>
                 <period period="LATE_SUMMER">2905</period>
-                <period period="EARLY_AUTUMN">2952</period>
+                <period period="EARLY_AUTUMN">2954</period>
                 <period period="MID_AUTUMN">2900</period>
                 <period period="LATE_AUTUMN">2900</period>
                 <period period="EARLY_WINTER">2900</period>
@@ -1386,7 +1386,7 @@
                 <period period="EARLY_SUMMER">3200</period>
                 <period period="MID_SUMMER">3200</period>
                 <period period="LATE_SUMMER">3200</period>
-                <period period="EARLY_AUTUMN">3177</period>
+                <period period="EARLY_AUTUMN">3175</period>
                 <period period="MID_AUTUMN">3200</period>
                 <period period="LATE_AUTUMN">3200</period>
                 <period period="EARLY_WINTER">3200</period>
@@ -1466,7 +1466,7 @@
                 <period period="EARLY_SUMMER">1394</period>
                 <period period="MID_SUMMER">1328</period>
                 <period period="LATE_SUMMER">1499</period>
-                <period period="EARLY_AUTUMN">1615</period>
+                <period period="EARLY_AUTUMN">1618</period>
                 <period period="MID_AUTUMN">1771</period>
                 <period period="LATE_AUTUMN">1853</period>
                 <period period="EARLY_WINTER">1984</period>
@@ -1482,7 +1482,7 @@
                 <period period="EARLY_SUMMER">2928</period>
                 <period period="MID_SUMMER">2684</period>
                 <period period="LATE_SUMMER">2420</period>
-                <period period="EARLY_AUTUMN">2301</period>
+                <period period="EARLY_AUTUMN">2296</period>
                 <period period="MID_AUTUMN">2123</period>
                 <period period="LATE_AUTUMN">1830</period>
                 <period period="EARLY_WINTER">2050</period>
@@ -1498,7 +1498,7 @@
                 <period period="EARLY_SUMMER">2136</period>
                 <period period="MID_SUMMER">1958</period>
                 <period period="LATE_SUMMER">1758</period>
-                <period period="EARLY_AUTUMN">1638</period>
+                <period period="EARLY_AUTUMN">1636</period>
                 <period period="MID_AUTUMN">1549</period>
                 <period period="LATE_AUTUMN">1335</period>
                 <period period="EARLY_WINTER">1495</period>
@@ -1514,7 +1514,7 @@
                 <period period="EARLY_SUMMER">1581</period>
                 <period period="MID_SUMMER">1532</period>
                 <period period="LATE_SUMMER">1674</period>
-                <period period="EARLY_AUTUMN">1806</period>
+                <period period="EARLY_AUTUMN">1812</period>
                 <period period="MID_AUTUMN">1809</period>
                 <period period="LATE_AUTUMN">1728</period>
                 <period period="EARLY_WINTER">1548</period>
@@ -1530,7 +1530,7 @@
                 <period period="EARLY_SUMMER">1633</period>
                 <period period="MID_SUMMER">1551</period>
                 <period period="LATE_SUMMER">1670</period>
-                <period period="EARLY_AUTUMN">1685</period>
+                <period period="EARLY_AUTUMN">1684</period>
                 <period period="MID_AUTUMN">1732</period>
                 <period period="LATE_AUTUMN">1782</period>
                 <period period="EARLY_WINTER">1666</period>
@@ -1546,7 +1546,7 @@
                 <period period="EARLY_SUMMER">1050</period>
                 <period period="MID_SUMMER">1050</period>
                 <period period="LATE_SUMMER">1052</period>
-                <period period="EARLY_AUTUMN">1051</period>
+                <period period="EARLY_AUTUMN">1052</period>
                 <period period="MID_AUTUMN">1050</period>
                 <period period="LATE_AUTUMN">1050</period>
                 <period period="EARLY_WINTER">1050</period>
@@ -1578,7 +1578,7 @@
                 <period period="EARLY_SUMMER">1710</period>
                 <period period="MID_SUMMER">1710</period>
                 <period period="LATE_SUMMER">1714</period>
-                <period period="EARLY_AUTUMN">1746</period>
+                <period period="EARLY_AUTUMN">1745</period>
                 <period period="MID_AUTUMN">1710</period>
                 <period period="LATE_AUTUMN">1710</period>
                 <period period="EARLY_WINTER">1710</period>
@@ -1610,7 +1610,7 @@
                 <period period="EARLY_SUMMER">1580</period>
                 <period period="MID_SUMMER">1580</period>
                 <period period="LATE_SUMMER">1585</period>
-                <period period="EARLY_AUTUMN">1618</period>
+                <period period="EARLY_AUTUMN">1622</period>
                 <period period="MID_AUTUMN">1580</period>
                 <period period="LATE_AUTUMN">1580</period>
                 <period period="EARLY_WINTER">1580</period>
@@ -1626,7 +1626,7 @@
                 <period period="EARLY_SUMMER">5050</period>
                 <period period="MID_SUMMER">5050</period>
                 <period period="LATE_SUMMER">5180</period>
-                <period period="EARLY_AUTUMN">5274</period>
+                <period period="EARLY_AUTUMN">5258</period>
                 <period period="MID_AUTUMN">5050</period>
                 <period period="LATE_AUTUMN">5050</period>
                 <period period="EARLY_WINTER">5050</period>
@@ -1642,7 +1642,7 @@
                 <period period="EARLY_SUMMER">2596</period>
                 <period period="MID_SUMMER">2596</period>
                 <period period="LATE_SUMMER">2601</period>
-                <period period="EARLY_AUTUMN">2585</period>
+                <period period="EARLY_AUTUMN">2583</period>
                 <period period="MID_AUTUMN">2596</period>
                 <period period="LATE_AUTUMN">2596</period>
                 <period period="EARLY_WINTER">2596</period>
@@ -1690,7 +1690,7 @@
                 <period period="EARLY_SUMMER">1886</period>
                 <period period="MID_SUMMER">1886</period>
                 <period period="LATE_SUMMER">1881</period>
-                <period period="EARLY_AUTUMN">1907</period>
+                <period period="EARLY_AUTUMN">1908</period>
                 <period period="MID_AUTUMN">1886</period>
                 <period period="LATE_AUTUMN">1886</period>
                 <period period="EARLY_WINTER">1886</period>
@@ -1706,7 +1706,7 @@
                 <period period="EARLY_SUMMER">1464</period>
                 <period period="MID_SUMMER">1464</period>
                 <period period="LATE_SUMMER">1462</period>
-                <period period="EARLY_AUTUMN">1474</period>
+                <period period="EARLY_AUTUMN">1471</period>
                 <period period="MID_AUTUMN">1464</period>
                 <period period="LATE_AUTUMN">1464</period>
                 <period period="EARLY_WINTER">1464</period>
@@ -1722,7 +1722,7 @@
                 <period period="EARLY_SUMMER">2730</period>
                 <period period="MID_SUMMER">2730</period>
                 <period period="LATE_SUMMER">2714</period>
-                <period period="EARLY_AUTUMN">2714</period>
+                <period period="EARLY_AUTUMN">2717</period>
                 <period period="MID_AUTUMN">2730</period>
                 <period period="LATE_AUTUMN">2730</period>
                 <period period="EARLY_WINTER">2730</period>
@@ -1738,7 +1738,7 @@
                 <period period="EARLY_SUMMER">846</period>
                 <period period="MID_SUMMER">765</period>
                 <period period="LATE_SUMMER">438</period>
-                <period period="EARLY_AUTUMN">279</period>
+                <period period="EARLY_AUTUMN">280</period>
                 <period period="MID_AUTUMN">891</period>
                 <period period="LATE_AUTUMN">972</period>
                 <period period="EARLY_WINTER">1017</period>
@@ -1754,7 +1754,7 @@
                 <period period="EARLY_SUMMER">50</period>
                 <period period="MID_SUMMER">50</period>
                 <period period="LATE_SUMMER">49</period>
-                <period period="EARLY_AUTUMN">48</period>
+                <period period="EARLY_AUTUMN">49</period>
                 <period period="MID_AUTUMN">50</period>
                 <period period="LATE_AUTUMN">50</period>
                 <period period="EARLY_WINTER">50</period>
@@ -1818,7 +1818,7 @@
                 <period period="EARLY_SUMMER">124</period>
                 <period period="MID_SUMMER">124</period>
                 <period period="LATE_SUMMER">124</period>
-                <period period="EARLY_AUTUMN">124</period>
+                <period period="EARLY_AUTUMN">123</period>
                 <period period="MID_AUTUMN">124</period>
                 <period period="LATE_AUTUMN">124</period>
                 <period period="EARLY_WINTER">124</period>
@@ -2266,7 +2266,7 @@
                 <period period="EARLY_SUMMER">3330</period>
                 <period period="MID_SUMMER">3330</period>
                 <period period="LATE_SUMMER">3316</period>
-                <period period="EARLY_AUTUMN">3276</period>
+                <period period="EARLY_AUTUMN">3273</period>
                 <period period="MID_AUTUMN">3330</period>
                 <period period="LATE_AUTUMN">3330</period>
                 <period period="EARLY_WINTER">3330</period>

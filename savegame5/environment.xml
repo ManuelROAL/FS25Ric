@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <environment>
-    <dayTime>515.149902</dayTime>
+    <dayTime>651.800110</dayTime>
     <currentDay>25</currentDay>
     <currentMonotonicDay>7</currentMonotonicDay>
-    <realHourTimer>1287444</realHourTimer>
+    <realHourTimer>3247646</realHourTimer>
     <daysPerPeriod>4</daysPerPeriod>
     <lighting>
         <toneMapping slope="1.000000" toe="0.400000" shoulder="0.800000" blackClip="0.000000" whiteClip="0.040000"/>
     </lighting>
-    <weather timeSinceLastRain="787">
+    <weather timeSinceLastRain="924">
         <forecast>
             <instance typeName="SUN" season="AUTUMN" variationIndex="1" startDay="7" startDayTime="27040" duration="43200000"/>
             <instance typeName="RAIN" season="AUTUMN" variationIndex="1" startDay="7" startDayTime="43227040" duration="7200000"/>
@@ -45,7 +45,7 @@
             <instance typeName="CLOUDY" season="AUTUMN" variationIndex="2" startDay="15" startDayTime="61227040" duration="25200000"/>
             <instance typeName="RAIN" season="AUTUMN" variationIndex="4" startDay="16" startDayTime="27040" duration="7200000"/>
         </forecast>
-        <fog alpha="1.000000" visibilityAlpha="1.000000" duration="3600000.000000">
+        <fog alpha="1.000000" visibilityAlpha="0.000000" duration="3600000.000000">
             <target>
                 <groundFog coverageEdge0="0.263734" coverageEdge1="0.966514" extraHeight="12.720171" groundLevelDensity="0.132843" minValleyDepth="7.665935" startDayTimeMinutes="229" endDayTimeMinutes="558" weatherTypes="SUN CLOUDY"/>
                 <heightFog maxHeight="535.974304" groundLevelDensity="0.138784"/>
