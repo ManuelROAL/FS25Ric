@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<sales>
+    <item timeLeft="12" isGenerated="true" xmlFilename="data/vehicles/antonioCarraro/tigrecar3200/tigrecar3200.xml" age="37" price="8012" damage="0.441470" wear="0.702061" operatingTime="73679.390625"/>
+    <item timeLeft="3" isGenerated="true" xmlFilename="data/vehicles/kinze/machTill401/machTill401.xml" age="6" price="87639" damage="0.300360" wear="0.593656" operatingTime="17540.085938"/>
+    <item timeLeft="21" isGenerated="true" xmlFilename="data/vehicles/claas/arion400/arion400.xml" age="31" price="40583" damage="0.509930" wear="0.626422" operatingTime="67567.742188"/>
+    <item timeLeft="36" isGenerated="true" xmlFilename="data/vehicles/grimme/sl8022/sl8022.xml" age="39" price="12058" damage="0.466928" wear="0.613937" operatingTime="145689.031250"/>
+</sales>

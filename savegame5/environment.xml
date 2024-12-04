@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<environment>
+    <dayTime>515.149902</dayTime>
+    <currentDay>25</currentDay>
+    <currentMonotonicDay>7</currentMonotonicDay>
+    <realHourTimer>1287444</realHourTimer>
+    <daysPerPeriod>4</daysPerPeriod>
+    <lighting>
+        <toneMapping slope="1.000000" toe="0.400000" shoulder="0.800000" blackClip="0.000000" whiteClip="0.040000"/>
+    </lighting>
+    <weather timeSinceLastRain="787">
+        <forecast>
+            <instance typeName="SUN" season="AUTUMN" variationIndex="1" startDay="7" startDayTime="27040" duration="43200000"/>
+            <instance typeName="RAIN" season="AUTUMN" variationIndex="1" startDay="7" startDayTime="43227040" duration="7200000"/>
+            <instance typeName="SUN" season="AUTUMN" variationIndex="2" startDay="7" startDayTime="50427040" duration="39600000"/>
+            <instance typeName="RAIN" season="AUTUMN" variationIndex="1" startDay="8" startDayTime="3627040" duration="7200000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="3" startDay="8" startDayTime="10827040" duration="32400000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="3" startDay="8" startDayTime="43227040" duration="36000000"/>
+            <instance typeName="RAIN" season="AUTUMN" variationIndex="3" startDay="8" startDayTime="79227040" duration="3600000"/>
+            <instance typeName="SUN" season="AUTUMN" variationIndex="4" startDay="8" startDayTime="82827040" duration="32400000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="4" startDay="9" startDayTime="28827040" duration="36000000"/>
+            <instance typeName="SUN" season="AUTUMN" variationIndex="2" startDay="9" startDayTime="64827040" duration="21600000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="3" startDay="10" startDayTime="27040" duration="18000000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="4" startDay="10" startDayTime="18027040" duration="32400000"/>
+            <instance typeName="SUN" season="AUTUMN" variationIndex="3" startDay="10" startDayTime="50427040" duration="36000000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="1" startDay="11" startDayTime="27040" duration="28800000"/>
+            <instance typeName="RAIN" season="AUTUMN" variationIndex="2" startDay="11" startDayTime="28827040" duration="7200000"/>
+            <instance typeName="RAIN" season="AUTUMN" variationIndex="4" startDay="11" startDayTime="36027040" duration="7200000"/>
+            <instance typeName="RAIN" season="AUTUMN" variationIndex="2" startDay="11" startDayTime="43227040" duration="7200000"/>
+            <instance typeName="SUN" season="AUTUMN" variationIndex="1" startDay="11" startDayTime="50427040" duration="32400000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="2" startDay="11" startDayTime="82827040" duration="18000000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="1" startDay="12" startDayTime="14427040" duration="25200000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="4" startDay="12" startDayTime="39627040" duration="32400000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="3" startDay="12" startDayTime="72027040" duration="36000000"/>
+            <instance typeName="RAIN" season="AUTUMN" variationIndex="1" startDay="13" startDayTime="21627040" duration="10800000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="4" startDay="13" startDayTime="32427040" duration="36000000"/>
+            <instance typeName="RAIN" season="AUTUMN" variationIndex="1" startDay="13" startDayTime="68427040" duration="7200000"/>
+            <instance typeName="RAIN" season="AUTUMN" variationIndex="1" startDay="13" startDayTime="75627040" duration="7200000"/>
+            <instance typeName="SUN" season="AUTUMN" variationIndex="1" startDay="13" startDayTime="82827040" duration="32400000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="1" startDay="14" startDayTime="28827040" duration="36000000"/>
+            <instance typeName="RAIN" season="AUTUMN" variationIndex="2" startDay="14" startDayTime="64827040" duration="7200000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="4" startDay="14" startDayTime="72027040" duration="18000000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="4" startDay="15" startDayTime="3627040" duration="28800000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="2" startDay="15" startDayTime="32427040" duration="28800000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="2" startDay="15" startDayTime="61227040" duration="25200000"/>
+            <instance typeName="RAIN" season="AUTUMN" variationIndex="4" startDay="16" startDayTime="27040" duration="7200000"/>
+        </forecast>
+        <fog alpha="1.000000" visibilityAlpha="1.000000" duration="3600000.000000">
+            <target>
+                <groundFog coverageEdge0="0.263734" coverageEdge1="0.966514" extraHeight="12.720171" groundLevelDensity="0.132843" minValleyDepth="7.665935" startDayTimeMinutes="229" endDayTimeMinutes="558" weatherTypes="SUN CLOUDY"/>
+                <heightFog maxHeight="535.974304" groundLevelDensity="0.138784"/>
+            </target>
+            <last>
+                <groundFog coverageEdge0="0.164527" coverageEdge1="0.713620" extraHeight="8.032317" groundLevelDensity="0.048505" minValleyDepth="3.266656" startDayTimeMinutes="213" endDayTimeMinutes="576" weatherTypes="SUN CLOUDY"/>
+                <heightFog maxHeight="532.351013" groundLevelDensity="0.195937"/>
+            </last>
+        </fog>
+        <snow height="0.000000"/>
+        <ground wetness="0.000000"/>
+        <twister position="0.00 0.00 0.00" isSpawned="false" fadeDirection="0" fadeValue="0.000000" metersPerHour="0.000000"/>
+    </weather>
+    <snow physicalHeight="0.000000" height="0.000000"/>
+</environment>

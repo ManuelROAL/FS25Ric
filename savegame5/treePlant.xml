@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<treePlant>
+    <tree treeType="CHINESEELM" position="-330.7332 41.9451 -26.0199" rotation="0.0000 291.7037 0.0000" growthStateI="5" isGrowing="false" splitShapeFileId="1"/>
+    <tree treeType="TILIAAMURENSIS" position="-326.7464 41.8695 -40.7516" rotation="0.0000 278.9339 0.0000" growthStateI="5" isGrowing="false" splitShapeFileId="2"/>
+    <tree treeType="TILIAAMURENSIS" position="-327.3782 42.0184 -69.7989" rotation="0.0000 318.4550 0.0000" growthStateI="5" isGrowing="false" splitShapeFileId="3"/>
+    <tree treeType="OAK" position="-362.2693 42.0000 -55.3485" rotation="0.0000 84.2442 0.0000" growthStateI="6" isGrowing="false" splitShapeFileId="4"/>
+    <tree treeType="SHAGBARKHICKORY" position="-395.5581 42.0389 8.7011" rotation="0.0000 331.1649 0.0000" growthStateI="5" isGrowing="false" splitShapeFileId="5"/>
+    <tree treeType="BOXELDER" position="-329.6917 41.9526 13.6665" rotation="0.0000 87.1071 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="6"/>
+    <tree treeType="CHERRY" position="-364.1624 41.9922 5.0462" rotation="0.0000 203.4359 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="7"/>
+    <tree treeType="CHERRY" position="-363.6589 41.9922 11.4683" rotation="0.0000 194.5741 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="8"/>
+    <tree treeType="CHERRY" position="-363.6132 41.9922 16.4108" rotation="0.0000 287.8128 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="9"/>
+    <tree treeType="CHERRY" position="-363.8287 41.9922 22.1797" rotation="0.0000 142.8395 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="10"/>
+    <tree treeType="DOWNYSERVICEBERRY" position="-333.3121 41.6119 -4.8598" rotation="0.0000 183.1194 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="11"/>
+    <tree treeType="ASPEN" position="-334.2723 41.9390 5.5218" rotation="0.0000 189.8013 0.0000" growthStateI="7" isGrowing="false" splitShapeFileId="12"/>
+    <tree treeType="BOXELDER" position="-467.0802 43.0039 24.1377" rotation="0.0000 308.7382 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="13"/>
+    <tree treeType="CHERRY" position="-428.7408 42.0000 27.0185" rotation="0.0000 17.6735 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="14"/>
+    <tree treeType="CHERRY" position="-434.9852 42.0000 26.9384" rotation="0.0000 96.8312 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="15"/>
+    <tree treeType="CHERRY" position="-441.0397 42.0000 27.1430" rotation="0.0000 236.1653 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="16"/>
+    <tree treeType="CHERRY" position="-446.8992 42.0000 26.9694" rotation="0.0000 190.6897 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="17"/>
+    <tree treeType="CHERRY" position="-452.9443 42.0000 27.3500" rotation="0.0000 188.2312 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="18"/>
+    <tree treeType="CHINESEELM" position="-460.2738 42.1677 27.0024" rotation="0.0000 327.1136 0.0000" growthStateI="5" isGrowing="false" splitShapeFileId="19"/>
+    <tree treeType="BEECH" position="-407.4423 42.0000 20.2360" rotation="0.0000 119.3173 0.0000" growthStateI="7" isGrowing="false" splitShapeFileId="20"/>
+    <tree treeType="BOXELDER" position="-383.0522 42.4577 -80.2961" rotation="0.0000 153.5971 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="21"/>
+    <tree treeType="BOXELDER" position="-433.1939 42.1300 -34.7634" rotation="0.0000 23.7820 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="22"/>
+    <tree treeType="DOWNYSERVICEBERRY" position="-432.7373 42.0000 -24.1338" rotation="0.0000 327.0341 0.0000" growthStateI="4" isGrowing="false" splitShapeFileId="23"/>
+    <tree treeType="NORTHERNCATALPA" position="-430.8687 42.0000 12.8574" rotation="0.0000 228.9650 0.0000" growthStateI="5" isGrowing="false" splitShapeFileId="24"/>
+</treePlant>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<careerSavegame revision="2" valid="true">
+    <settings>
+        <savegameName>BonoboS</savegameName>
+        <creationDate>2024-11-13</creationDate>
+        <mapId>MapUS</mapId>
+        <mapTitle>Riverbend Springs</mapTitle>
+        <saveDateFormatted>04/12/2024</saveDateFormatted>
+        <saveDate>2024-12-04</saveDate>
+        <initialMoney>1000000</initialMoney>
+        <initialLoan>0</initialLoan>
+        <economicDifficulty>NORMAL</economicDifficulty>
+        <hasInitiallyOwnedFarmlands>false</hasInitiallyOwnedFarmlands>
+        <loadDefaultFarm>false</loadDefaultFarm>
+        <startWithGuidedTour>false</startWithGuidedTour>
+        <trafficEnabled>true</trafficEnabled>
+        <stopAndGoBraking>true</stopAndGoBraking>
+        <trailerFillLimit>false</trailerFillLimit>
+        <automaticMotorStartEnabled>false</automaticMotorStartEnabled>
+        <growthMode>1</growthMode>
+        <plannedDaysPerPeriod>4</plannedDaysPerPeriod>
+        <fruitDestruction>true</fruitDestruction>
+        <plowingRequiredEnabled>true</plowingRequiredEnabled>
+        <stonesEnabled>true</stonesEnabled>
+        <weedsEnabled>true</weedsEnabled>
+        <limeRequired>true</limeRequired>
+        <isSnowEnabled>true</isSnowEnabled>
+        <fuelUsage>2</fuelUsage>
+        <helperBuyFuel>false</helperBuyFuel>
+        <helperBuySeeds>false</helperBuySeeds>
+        <helperBuyFertilizer>false</helperBuyFertilizer>
+        <helperSlurrySource>1</helperSlurrySource>
+        <helperManureSource>1</helperManureSource>
+        <densityMapRevision>4</densityMapRevision>
+        <terrainTextureRevision>1</terrainTextureRevision>
+        <terrainLodTextureRevision>2</terrainLodTextureRevision>
+        <splitShapesRevision>2</splitShapesRevision>
+        <tipCollisionRevision>2</tipCollisionRevision>
+        <placementCollisionRevision>2</placementCollisionRevision>
+        <navigationCollisionRevision>2</navigationCollisionRevision>
+        <mapDensityMapRevision>1</mapDensityMapRevision>
+        <mapTerrainTextureRevision>1</mapTerrainTextureRevision>
+        <mapTerrainLodTextureRevision>1</mapTerrainLodTextureRevision>
+        <mapSplitShapesRevision>1</mapSplitShapesRevision>
+        <mapTipCollisionRevision>1</mapTipCollisionRevision>
+        <mapPlacementCollisionRevision>1</mapPlacementCollisionRevision>
+        <mapNavigationCollisionRevision>1</mapNavigationCollisionRevision>
+        <disasterDestructionState>ENABLED</disasterDestructionState>
+        <dirtInterval>3</dirtInterval>
+        <timeScale>5.000000</timeScale>
+        <autoSaveInterval>10.000000</autoSaveInterval>
+    </settings>
+    <map>
+        <foundHelpIcons>00000000000000000000</foundHelpIcons>
+    </map>
+    <introductionHelp active="false">
+        <shownElements></shownElements>
+        <shownHints></shownHints>
+    </introductionHelp>
+    <statistics>
+        <money>82594</money>
+        <playTime>518.544861</playTime>
+    </statistics>
+    <mapsSplitShapeFileIds count="1">
+        <id id="0"/>
+    </mapsSplitShapeFileIds>
+    <slotSystem slotUsage="1312"/>
+    <mod modName="FS25_RounderWrappedRoundbales" title="Rounder Wrapped Round Bales" version="1.0.0.0" required="false" fileHash="d79b50699807d6cfe20a975f4df24035"/>
+    <mod modName="FS25_RM_Subsidy" title="Government Subsidy" version="1.0.0.0" required="false" fileHash="d324c77709ffd0ca671aed7d38221c14"/>
+    <mod modName="FS25_PowerTools" title="PowerTools" version="1.0.0.0" required="false" fileHash="6b326e8dd4fed6299d5e8d7d58978128"/>
+    <mod modName="FS25_ObjectBaleStorage" title="Bale Storage" version="1.0.0.0" required="false" fileHash="7080cca7446bd300367d258c96262e38"/>
+    <mod modName="FS25_PlaceTerraformPaintAnywhere_KingMods" title="Place, Terraform and Paint Anywhere (KingMods)" version="1.0.0.0" required="false" fileHash="609bac723092b75795b8b2fd9d350785"/>
+    <mod modName="FS25_SIMDashboard_Interface" title="SIM Dashboard Interface" version="1.0.0.0" required="false" fileHash="7d5bcabc2aaae5edc8bf44e295553764"/>
+    <mod modName="FS25_UniversalAutoload" title="Autoload Universal" version="0.0.0.7" required="false" fileHash="0ad604d29f184f6341cfa2ca54eb9259"/>
+    <mod modName="FS25_CabView" title="Realistic Cab View" version="1.0.0.0" required="false" fileHash="0a9a3ac6d5a30b9a1712b7e722b4fde4"/>
+    <mod modName="FS25_InfoDisplayExtension" title="Info Display Extension" version="1.0.0.0" required="false" fileHash="7332b408a7473e33cc67ffb19618a68d"/>
+</careerSavegame>

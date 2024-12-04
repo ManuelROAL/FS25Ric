@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<players>
+    <player uniqueUserId="JfKDftY83roDYkyS3yd+s7sA3jjvqzu8Zdvlk71cL0I=" timeLastConnected="2024/12/04 15:05">
+        <style filename="dataS/character/playerM/playerM.xml">
+            <facegear color="1"/>
+            <onepiece color="1" name="empty"/>
+            <bottom color="9" name="chinos"/>
+            <face color="1" name="head01"/>
+            <top color="9" name="topLightSweater"/>
+            <gloves color="1" name="empty"/>
+            <headgear color="1" name="empty"/>
+            <glasses color="1" name="empty"/>
+            <footwear color="1" name="workBoots1"/>
+            <hairStyle color="19" name="hair04"/>
+            <beard color="19" name="trimmedBeard_head01"/>
+        </style>
+    </player>
+    <player uniqueUserId="65WeIThrg1C1SuUK0NEtU6D5MFp75Prj0nAk2ktdQJ4=" timeLastConnected="2024/11/13 20:50">
+        <style filename="dataS/character/playerM/playerM.xml">
+            <facegear color="1"/>
+            <onepiece color="10" name="motionSuit"/>
+            <bottom color="5"/>
+            <face color="1" name="head02"/>
+            <top color="10"/>
+            <gloves color="1" name="empty"/>
+            <headgear color="1" name="empty"/>
+            <glasses color="1" name="empty"/>
+            <footwear color="2" name="workBoots2"/>
+            <hairStyle color="16" name="hair09"/>
+            <beard color="16" name="goatee01_head02"/>
+        </style>
+    </player>
+</players>
